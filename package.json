@@ -1,0 +1,27 @@
+{
+  "name": "data-mesh-exercise",
+  "version": "1.0.0",
+  "description": "Exercise question for dataMesh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test":"jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohitKhanna1411/datamesh"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Mohit Khanna",
+  "contributors": [
+    "Mohit Khanna <khanna.mohit94@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "npm": "^9.6.3"
+  }
+}
